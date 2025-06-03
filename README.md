@@ -1,4 +1,4 @@
-## Hi there, I'm Angel Adrian Cortes Zuñiga 👋
+## Hi there, I'm Adrian Zuñiga 👋
 
 # Android Developer
 
@@ -14,7 +14,7 @@
 ![Kotlin]()
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![C#]()&nbsp;
 ![XML]()
 
 #### Libraries
@@ -37,6 +37,6 @@
 #### IDEs
 
 ![Android Studio]()
-![Visual Basic](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
+![Visual Basic]()&nbsp;
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
